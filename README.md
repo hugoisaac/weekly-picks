@@ -2,7 +2,7 @@
 
 My weekly picks from the World of software development. The goal is to keep a shareable record of all valuable resources I find while trying to grow my skills and stay up-to-date (e.g. technical blog posts, tutorials, screencasts, etc.). Will try to update it on a weekly basis :).
 
-## 2017
+## 2016
 
 ### Week of Jul 17
 
