@@ -18,3 +18,9 @@ My weekly picks from the World of software development. The goal is to keep a sh
   2. [One-way data-binding in Angular 1.5](https://toddmotto.com/one-way-data-binding-in-angular-1-5/)
   3. [$onInit and new "require" Object syntax in Angular components](https://toddmotto.com/on-init-require-object-syntax-angular-component/)
   4. [Comprehensive dive into Angular 1.5 lifecycle hooks](https://toddmotto.com/angular-1-5-lifecycle-hooks)
+
+### Week of Aug 07
+
+1. [Practical guide for avoiding burnout and living a happier life](https://opensource.com/business/15/12/avoid-burnout-live-happy)
+2. [The 7 Cross-Browser Testing Tools You Need in 2016](https://www.sitepoint.com/the-7-cross-browser-testing-tools-you-need-in-2016/)
+3. [Why object literals in JavaScript are cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
