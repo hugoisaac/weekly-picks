@@ -26,3 +26,7 @@ My weekly picks from the World of software development. The goal is to keep a sh
 3. [Why object literals in JavaScript are cool](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
 4. [The Churn](http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html) – Good points from [@unclebobmartin](https://twitter.com/unclebobmartin) on not reinventing the wheel.
 5. [Angular 2 Upgrade Strategies from Angular 1.x](http://developer.telerik.com/featured/angular-2-upgrade-strategies-angular-1-x/)
+
+### Week of Aug 14
+
+1. [Make your JavaScript code shine: knockout old ES5 hacks](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/)
