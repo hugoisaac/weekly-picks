@@ -30,3 +30,7 @@ My weekly picks from the World of software development. The goal is to keep a sh
 ### Week of Aug 14
 
 1. [Make your JavaScript code shine: knockout old ES5 hacks](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/)
+
+### Week of Sept 25
+
+1. [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/) - Common mistakes when using JavaScript promises and how to fix them.
