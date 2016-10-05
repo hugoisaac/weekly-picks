@@ -34,3 +34,7 @@ My weekly picks from the World of software development. The goal is to keep a sh
 ### Week of Sept 25
 
 1. [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/) - Common mistakes when using JavaScript promises and how to fix them.
+
+### Week of Oct 02
+
+1. [I finally made sense of front end build tools. You can, too.](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b)
