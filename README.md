@@ -38,3 +38,5 @@ My weekly picks from the World of software development. The goal is to keep a sh
 ### Week of Oct 02
 
 1. [I finally made sense of front end build tools. You can, too.](https://medium.freecodecamp.com/making-sense-of-front-end-build-tools-3a1b3a87043b)
+2. [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329)
+3. [Top 18 Most Common Mistakes that AngularJS Developers Make](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes)
