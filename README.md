@@ -33,7 +33,7 @@ My weekly picks from the World of software development. The goal is to keep a sh
 
 ### Week of Sept 25
 
-1. [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/) - Common mistakes when using JavaScript promises and how to fix them.
+1. [Promise Anti-patterns](http://taoofcode.net/promise-anti-patterns/) – Common mistakes when using JavaScript promises and how to fix them.
 
 ### Week of Oct 02
 
@@ -41,3 +41,4 @@ My weekly picks from the World of software development. The goal is to keep a sh
 2. [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329)
 3. [Top 18 Most Common Mistakes that AngularJS Developers Make](https://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes)
 4. [How to Stand on Shoulders](https://medium.freecodecamp.com/how-to-stand-on-shoulders-16e8cfbc127b) – Avoiding the Not Invented Here syndrome.
+5. [The State Of JavaScript 2016: Results](https://medium.com/@sachagreif/the-state-of-javascript-2016-results-4beb4ff06961) – Some data to make sense of the ever-changing #JavaScript ecosystem.
