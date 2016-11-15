@@ -48,3 +48,7 @@ My weekly picks from the World of software development. The goal is to keep a sh
 1. [Apple to developers: There is no escape.](https://medium.freecodecamp.com/apple-to-developers-there-is-no-escape-298b63c2a1d8)
 2. [Microsoft, I forgive you!](https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c)
 3. [No Escape? Microsoft is About to Eat Apple for Lunch](https://medium.com/javascript-scene/no-escape-microsoft-is-about-to-eat-apple-for-lunch-1fbef5048086)
+
+### Week of Nov 13
+
+1. [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1)
