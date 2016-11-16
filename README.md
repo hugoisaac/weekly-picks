@@ -49,6 +49,14 @@ My weekly picks from the World of software development. The goal is to keep a sh
 2. [Microsoft, I forgive you!](https://m.signalvnoise.com/microsoft-i-forgive-you-2fb6d6061a2c)
 3. [No Escape? Microsoft is About to Eat Apple for Lunch](https://medium.com/javascript-scene/no-escape-microsoft-is-about-to-eat-apple-for-lunch-1fbef5048086)
 
+### Week of Nov 06
+
+1. [Confessions of an Insecure Designer](https://medium.freecodecamp.com/confessions-insecure-designer-cebfe2546e97)
+2. [It’s urgent! (Really?)](https://m.signalvnoise.com/its-urgent-really-8050dfe3b921)
+3. [How to deal with Technology Burnout — Maybe it’s life’s cycles](https://medium.com/@shanselman/how-to-deal-with-technology-burnout-maybe-its-life-s-cycles-db1538c03703)
+4. [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+5. [The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
 ### Week of Nov 13
 
 1. [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1)
