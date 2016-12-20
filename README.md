@@ -60,3 +60,7 @@ My weekly picks from the World of software development. The goal is to keep a sh
 ### Week of Nov 13
 
 1. [Why Deadlines Need to Drop Dead](https://medium.com/javascript-scene/why-deadlines-need-to-drop-dead-321739ae6be1)
+
+### Week of Dec 18
+
+1. [Angular 1.6 is here, this is what you need to know](https://toddmotto.com/angular-1-6-is-here)
