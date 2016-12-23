@@ -64,3 +64,6 @@ My weekly picks from the World of software development. The goal is to keep a sh
 ### Week of Dec 18
 
 1. [Angular 1.6 is here, this is what you need to know](https://toddmotto.com/angular-1-6-is-here)
+2. [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+3. [The outwork myth] (https://m.signalvnoise.com/entitlement-complex-46c770750046)
+4. [You Might Not Need React] (https://hackernoon.com/you-might-not-need-react-e5fd54611111)
