@@ -65,5 +65,8 @@ My weekly picks from the World of software development. The goal is to keep a sh
 
 1. [Angular 1.6 is here, this is what you need to know](https://toddmotto.com/angular-1-6-is-here)
 2. [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
-3. [The outwork myth] (https://m.signalvnoise.com/entitlement-complex-46c770750046)
-4. [You Might Not Need React] (https://hackernoon.com/you-might-not-need-react-e5fd54611111)
+3. [The outwork myth](https://m.signalvnoise.com/entitlement-complex-46c770750046)
+4. [You Might Not Need React](https://hackernoon.com/you-might-not-need-react-e5fd54611111)
+5. [Angular 2 vs React: The Ultimate Dance Off](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c)
+6. [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
+7. [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae)
