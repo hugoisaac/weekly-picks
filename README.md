@@ -70,3 +70,9 @@ My weekly picks from the World of software development. The goal is to keep a sh
 5. [Angular 2 vs React: The Ultimate Dance Off](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c)
 6. [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 7. [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae)
+
+## 2017
+
+### Week of Jan 1
+
+1. [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
